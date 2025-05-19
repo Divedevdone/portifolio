@@ -19,7 +19,7 @@ const Curriculo = () => {
             </section>
 
             <section>
-                <h2>Experiência Profissional</h2>
+                <h2>Experiência profissional</h2>
                 <ul>
                     <p><strong>STV Serviços</strong> - Porteiro (Desde 25/01/2023 e atual)</p>
                     <p><strong>Clube Curitibano</strong> - Porteiro (15/01/2021 à 24/03/2022)</p>
